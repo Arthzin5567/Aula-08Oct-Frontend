@@ -120,25 +120,67 @@ h1, h2, h3, h4, h5, h6 {
     gap: var(--spacing-md);
 }
 
+.tux-container {
+    order: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: auto;
+}
+
 .tux-img {
-    width: 80px; 
-    height: 92px;
-    background-image: url('../img/tux.png');
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    float: none; 
-    order: 3; 
+    width: 90px; 
+    height: 110px; 
+    object-fit: contain;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    display: block;
     margin: 0;
+    padding: 0;
+}
+
+
+.tux-img:hover {
+    transform: scale(1.05);
+    filter: brightness(1.1);
+}
+
+/* ===== RESPONSIVIDADE ===== */
+@media (max-width: 768px) {
+    .header .container {
+        flex-direction: column;
+        text-align: center;
+        gap: var(--spacing-sm);
+    }
+    
+    .tux-container {
+        order: 1;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .titulo-site {
+        order: 2;
+    }
+    
+    .nav {
+        order: 3;
+    }
+    
+    .tux-img {
+        width: 50px;
+        height: 57px;
+    }
 }
 
 .titulo-site {
     color: var(--primary-color) !important;
     text-shadow: 3px 3px 0 var(--table-hover-bg);
+    text-align: center;
     font-size: 1.75rem;
     font-weight: var(--font-weight-bold);
     margin: 0;
-    order: 1; 
+    order: 2; 
     flex: 1;
     font-family: var(--font-heading);
 }
@@ -158,9 +200,9 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center;
     height: auto; 
     position: relative;
-    order: 2; 
+    order: 3; 
     flex: 2; 
-    justify-content: center;
+    justify-content: flex-end;
 }
 
 .nav-lista {
@@ -566,3 +608,5 @@ main {
         font-size: 0.9rem;
     }
 }
+
+
