@@ -1,0 +1,13 @@
+Rubrica – Parte 2 do Projeto Integrador
+
+Este documento reúne evidências essenciais da implementação da Parte 2, incluindo:
+• Modularização do projeto com criação dos componentes header.html e footer.html.
+• Carregamento dinâmico de componentes via JavaScript (componentes.js).
+• Implementação de menu responsivo acessível usando aria-expanded.
+• Inclusão do botão “Voltar ao topo”.
+• Melhorias de acessibilidade com skip-link, foco visível e uso de tags semânticas.
+• Aplicação de responsividade com abordagem mobile-first (responsive.css).
+• Organização estruturada do projeto e criação da pasta docs/ para evidências.
+
+A rubrica comprova que todos os requisitos da etapa foram atendidos, apresentando as entregas de modularização,
+acessibilidade, responsividade e organização do código.
