@@ -72,7 +72,7 @@ Primeiramente foi feito uma revisão do projeto, foi verificado se os links func
 - Ajustar a responsividade do site para ficar mais agradável e arrumado aos smartphones adequando textos e tabelas.
 - Implementar Grid e Flexbox para substituir as tabelas e melhorar a responsividade e o desempenho do site.
 
-# Reflexão Individual
+# Reflexão Individual - Arthur
 
 - Aprendizados técnicos:
 -> Eu já tinha alguns conhecimentos prévios em HTML, mas aprender CSS e JavaScript. Percebi que eu pessoalmente tenho muita dificuldade em design, Frontend não é meu forte, sofri muito pra deixar a interface do jeito que está junto da minha dupla.
@@ -87,6 +87,12 @@ Primeiramente foi feito uma revisão do projeto, foi verificado se os links func
 - Desafios enfrentados
 -> O maior desafio foi mais na parte de design, tanto eu quanto a minha dupla não somos talentosos na parte de design. Sofremos muito para ajustar a interface que foi arrumada na base da tentativa e erro, além de pedir ajuda para amigos de outras turmas.
 
+# Reflexão Individual - Eduardo
+
+Principais habilidades que eu aprendi ao longo  do projeto, foram o detalhamento do Figma, organização e analise especifica e ampliada e o GitHub que foi o mais complexo de entender, devido ao fato de nunca ter mexido antes de forma detalhada, porem após o projeto possuo um conhecimento mais amplo sobre todos mas o meu melhor domínio e do Figma.
+
+Trabalhar em dupla foi bem tranquilo já que já tinha feito trabalhos com ele antes, os maiores desafios foram as complexidades do projeto e alguns erros da minha parte porem ele sempre estava disposto a me ajudar então levamos bem, porem em geral nossa comunicação e boa e fluida, a separação de tarefas ficou decidida pelo que cada um dominava melhor, comigo ficando com Figma e ele com o código.
+
 # Reflexão em Dupla
 
 - Evolução do projeto:
@@ -94,7 +100,9 @@ Primeiramente foi feito uma revisão do projeto, foi verificado se os links func
 -> O resultado final atente muito bem à proposta inicial. Conseguimos manter fiel ao original e fizemos as melhorias estéticas que estávamos buscando fazer.
 
 - Feedbacks Recebidos:
-
+"O site criado foi concedido de forma simples, exemplar e em específico, correto em todos os aspectos pedidos pela professora
+O site é limpo, organizado principalmente nos códigos e muito bem adaptado principalmente se for abrir em um desktop/PC, mas muito bem feito também para abrir em um celular
+Infelizmente, a tal "rubrica" não foi exatamente expostas nas aulas de Front-End, portanto não sabemos como utilizar-los de forma prática"
 
 - Relevância para o Negócio:
 -> Apesar do site não agregar muito valor prático aos usuários já estabelecidos do site original, e esse negócio não ser um pequeno negócio, nós buscamos fazer esse projeto com base no site oficial de download do Kernel Linux para trazer mais relevância ao Linux entre os alunos da nossa turma da faculdade. Afinal é um curso de Ciências da Computação, e cremos que é essencial para estudantes como nós termos um maior contato com esse sistema operacional tão importante para o mundo.
